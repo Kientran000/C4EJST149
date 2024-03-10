@@ -1,0 +1,14 @@
+1. Frontend: Giao diện trên máy tính mà người dùng nhìn thấy khi vào 
+1 trang web
+-> Lập trình frontend: Sử dụng công cụ, ngôn ngữ để tạo ra giao diện người dùng
+-> Ngôn ngữ: HTML, CSS, JS
+HTML: HyperText Markup Language -> Tạo ra các văn bản trên trang web 
+CSS: Cascade style sheet -> Thiết kế, làm cho văn bản sinh động và có trật tự
+JS: Javascript -> Ngôn ngữ lập trình
+
+
+2. Backend: Xử lý logic, nghiệp vụ, lưu trữ dữ liệu (database server)
+
+-> Tương tác với nhau thông qua API - Application Programming Interface
+-> Frontend sẽ gửi request lên backend và nhận về response
+-> request-response
